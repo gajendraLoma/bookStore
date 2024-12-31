@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "The Great Gatsby",
+        "title": "Classic Literature",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pride and Prejudice",
+        "title": "Romance Classic",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Frankenstein",
+        "title": "Gothic Horror",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 4,
+        "name": "The Art of War",
+        "title": "Ancient Strategy",
+        "price": 0,
+        "category": "Non-Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Dracula",
+        "title": "Gothic Horror Classic",
+        "price": 0,
+        "category": "Horror",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 6,
+        "name": "The Adventures ",
+        "title": "Detective Stories",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Alice's Adventures in Wonderland",
+        "title": "Children's Fantasy",
+        "price": 0,
+        "category": "Fantasy",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 8,
+        "name": "The Republic",
+        "title": "Philosophy Classic",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 9,
+        "name": "The Picture of Dorian Gray",
+        "title": "Gothic Fiction",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 10,
+        "name": "The War of the Worlds",
+        "title": "Science Fiction Classic",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-design-stack-books-illustration_23-2149341898.jpg"
+    }
+]
